@@ -5,7 +5,6 @@
 /* common styles or utilities */
 body {
       font-family: 'Poppins', sans-serif;
-      cursor: pointer;
 }
 
 main {
@@ -21,11 +20,9 @@ main {
       align-items: center;
       margin: 10px 10px 10px 10px;
 }
-
-.section-title {
+.section-title{
       font-size: 50px;
 }
-
 .top-blogs {
       color: #FFFFFF;
       padding-left: 100px;
@@ -38,25 +35,16 @@ main {
 
 }
 
-.button-1 {
+a {
       background-color: #DD0000;
       height: 40px;
       width: 120px;
       border-radius: 10px;
-      color: white;
+      color: #FFFFFF;
       display: block;
       text-decoration: none;
       text-align: center;
-      box-shadow: inset 0 0 0 0 yellow;
-      transition: ease-out 0.5s;
-}
 
-.button-1:hover {
-      box-shadow: inset 300px 0 0 0 0 yellow;
-      cursor: pointer;
-      color: white;
-      background-color: green;
-      text-decoration: none;
 }
 
 .container-2 {
@@ -77,15 +65,12 @@ main {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
 }
-
-.blogs {
+.blogs{
       border: 2px solid gray;
       border-radius: 12px;
       box-sizing: border-box;
       padding: 5px;
 }
-
-
 .color-1 {
       background-color: #FFFFFF;
       color: #161616;
@@ -126,14 +111,7 @@ main {
       margin-right: 10px;
       text-decoration: none;
       display: flex;
-      justify-content: center;
       list-style: none;
       color: #FFFFFF;
-      gap: 30px;
-}
 
-.follow-us {
-      display: flex;
-      justify-content: center;
-      gap: 30px;
 }

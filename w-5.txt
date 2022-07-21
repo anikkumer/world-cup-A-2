@@ -26,12 +26,10 @@
                   <h1 class="section-title">The Greatest <br>show on the <br>earth</h1><br>
                   <p>The Greatest Show on Earth is far more than a book - it's an event - and the powerful illustrations
                         make it a truly unforgettable experience. </p><br>
-                  <div class="button-1">
-                        <a href="https://allbdtoday.com/qatar-fifa-world-cup-2022-greatest-show-on-earth/"> Watch Live
-                              <i class="fa-solid fa-angle-right"></i>
-                        </a>
-                  </div>
 
+                  <a href="https://allbdtoday.com/qatar-fifa-world-cup-2022-greatest-show-on-earth/">Watch Live<i
+                              class="fa-solid fa-arrow-right"></i>
+                  </a>
 
             </div>
             <div class="top-players">
@@ -41,8 +39,7 @@
       </section>
       <section class="container-2">
             <div class="item">
-                  <a href="http://127.0.0.1:5500/index.html">Upcoming Match</a>
-                  <!-- <button class="color-1">Upcoming Match</button> -->
+                  <button class="color-1">Upcoming Match</button>
                   <button class="color-1">All Group</button>
                   <button class="color-2">Blog</button>
             </div>
@@ -51,10 +48,8 @@
                         <img src="assets/Blog Image.png" alt=""><br>
                         <button>Transfer</button>
                         <h6>Transfer Live: Chlesea in talks over Kimpenbe transfer</h6>
-
                         <i class="fa-solid fa-clock">10hr</i>
                         <i class="fa-solid fa-comment-dots">25</i>
-
                   </div>
                   <div class="blogs">
                         <img src="assets/Blog Image.png" alt=""><br>
@@ -130,12 +125,6 @@
                         <li>Goal App</li>
                         <li>Goal Live</li>
                   </ul>
-            </div>
-            <div class="follow-us">
-                  <a href="https://www.facebook.com/"><i class="fa-brands fa-facebook"></i></a>
-                  <a href="https://www.instagram.com/"><i class="fa-brands fa-instagram-square"></i></a>
-                  <a href="https://twitter.com/"><i class="fa-brands fa-twitter"></i></a>
-                  <a href="https://www.linkedin.com/"><i class="fa-brands fa-linkedin"></i></a>
             </div>
       </footer>
 

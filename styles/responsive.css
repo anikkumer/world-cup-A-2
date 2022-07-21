@@ -1,0 +1,64 @@
+ /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+
+ @media (min-width: 768px) and (max-width: 1024px) {
+
+       /* CSS */
+
+ }
+
+ /* 
+      ##Device = Tablets, Ipads (landscape)
+      ##Screen = B/w 768px to 1024px
+    */
+
+ @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+       /* CSS */
+
+ }
+
+ /* 
+      ##Device = Low Resolution Tablets, Mobiles (Landscape)
+      ##Screen = B/w 481px to 767px
+    */
+
+ @media (min-width: 481px) and (max-width: 767px) {
+
+       /* CSS */
+
+ }
+
+ /* 
+      ##Device = Most of the Smartphones Mobiles (Portrait)
+      ##Screen = B/w 320px to 479px
+    */
+
+ @media (min-width: 320px) and (max-width: 480px) {
+
+       .container-1 {
+             flex-direction: column;
+             justify-content: flex-end;
+             align-items: stretch;
+       }
+
+       .top-players {
+             justify-content: center;
+       }
+
+       .item {
+             display: block;
+
+       }
+
+       .blog-item {
+             display: block;
+       }
+
+       .list-point {
+             display: block;
+             text-align: center;
+       }
+ }
